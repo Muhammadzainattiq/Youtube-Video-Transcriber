@@ -1,6 +1,6 @@
 import streamlit as st
 from youtube_transcript_api import YouTubeTranscriptApi
-st.set_page_config(page_title="yt video transcriber", page_icon="📝")
+st.set_page_config(page_title="Yt video transcriber", page_icon="📝")
 st.markdown("""
     <style>
         .header {
